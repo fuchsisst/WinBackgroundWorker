@@ -1,0 +1,10 @@
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\bin\Debug\LabM2-7.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\bin\Debug\LabM2-7.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\bin\Debug\LabM2-7.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\obj\Debug\WinBackgroundWorker.csprojAssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\obj\Debug\LabM2_7.Form1.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\obj\Debug\LabM2_7.Properties.Resources.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\obj\Debug\WinBackgroundWorker.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\obj\Debug\WinBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\obj\Debug\LabM2-7.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\LabM2-7\obj\Debug\LabM2-7.pdb

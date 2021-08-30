@@ -1,0 +1,10 @@
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csprojAssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Form1.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Properties.Resources.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.pdb

@@ -1,0 +1,16 @@
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojAssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\bin\Debug\de-DE\WinAsynchMethod.resources.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.de-DE.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\de-DE\WinAsynchMethod.resources.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resource.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\bin\Debug\ru-RU\WinAsynchMethod.resources.dll
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.ru-RU.resources
+C:\Users\vital\OneDrive\Рабочий стол\.Net\WinBackgroundWorker\WinAsynchMethod\obj\Debug\ru-RU\WinAsynchMethod.resources.dll
